@@ -1,3 +1,3 @@
 require './logger'
 
-Logger.instance.log_something 'something'
+Logger.instance.log_something 'singleton here'
